@@ -5,9 +5,10 @@ Note that the difference between fRSE and RSE packages is that RSE package estim
 
 
 The following two cartooons tell the difference between two packages in estimating rare species:
-![Image of RSE](https://github.com/ecomol/fRSE/RSE.jpge)
 
-![Image of fRSE](https://github.com/ecomol/fRSE/fRSE.jpge)
+![Image of RSE](https://github.com/ecomol/fRSE/RSE.jpg)
+
+![Image of fRSE](https://github.com/ecomol/fRSE/fRSE.jpg)
 
 
 
