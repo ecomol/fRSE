@@ -26,6 +26,15 @@ The following two cartoons tell the difference between two packages in estimatin
 
 
 ------------------------------------------------------------------------------------------------
+For citing the package, please cite the following reference:
+
+
+Chen Y, Shen TJ, Nilesen SE (2019) How many rare species are present in under-sampled sites? In preparation.
+
+
+------------------------------------------------------------------------------------------------
+
+
 If users have questions about the usage of the fRSE package, please contact:
 
 Prof. Youhua Chen, email: haydi@126.com; Address: CAS Key Laboratory of Mountain Ecological Restoration and Bioresource Utilization & Ecological Restoration and Biodiversity Conservation Key Laboratory of Sichuan Province, Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu, 610041.
