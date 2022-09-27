@@ -3,6 +3,10 @@ fRSE is an R package for estimating the total number of all rare species in unde
 
 
 ------------------------------------------------------------------------------------------------
+Update: 2022-09-27
+
+Our paper has been published in Applied Vegetation Science, please cite it if used.
+
 Update: 2019-06-05
 
 
@@ -29,7 +33,7 @@ The following two cartoons tell the difference between two packages in estimatin
 For citing the package, please cite the following reference:
 
 
-Chen Y, Shen TJ, Nilesen SE (2019) How many rare species are present in under-sampled sites? In preparation.
+Wu Y., Chen Y., Li F.-Q.,Shen T.-J., Nielsen S.E. (2022) Abundance- and incidence-based estimation of total number of rare species in under-sampled sites. Applied Vegetation Sciences, 25, e12649.
 
 
 ------------------------------------------------------------------------------------------------
